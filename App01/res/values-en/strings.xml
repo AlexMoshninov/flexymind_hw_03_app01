@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App01</string>
+    <string name="action_settings">Settings</string>
+    <string name="signUp_button">Sign In</string>
+    <string name="signOut_button">Sign Out</string>
+    <string name="personName">Name Surname</string>
+    
+    <string name="playFootball">Play football</string>
+    <string name="playChess">Play chess</string>
+    <string name="readBooks">Read books</string>
+
+</resources>
