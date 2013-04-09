@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="towns">
+        <item>Санкт-Петербург</item>
+        <item>Москва</item>
+        <item>Лондон</item>
+        <item>Нью-Йорк</item>
+    </string-array>
+    
+</resources>
