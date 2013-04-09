@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">App01</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Приложение №1</string>
+    <string name="action_settings">Настройки</string>
     <string name="signUp_button">Зарегистрироваться</string>
     <string name="signOut_button">Выйти</string>
+    <string name="personName">Фамилия Имя Отчество</string>
+    
+    <string name="playFootball">Играю в футбол</string>
+    <string name="playChess">Играю в шахматы</string>
+    <string name="readBooks">Читаю книги</string>
 
 </resources>
